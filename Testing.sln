@@ -1,7 +1,6 @@
+
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30907.101
-MinimumVisualStudioVersion = 10.0.40219.1
+# Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing", "Testing\Testing.csproj", "{B534AACF-405C-4D74-AC01-581AC811EDA1}"
 EndProject
 Global
@@ -14,11 +13,5 @@ Global
 		{B534AACF-405C-4D74-AC01-581AC811EDA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B534AACF-405C-4D74-AC01-581AC811EDA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B534AACF-405C-4D74-AC01-581AC811EDA1}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {E76672E1-9243-45F1-AD72-51D78984D455}
 	EndGlobalSection
 EndGlobal
